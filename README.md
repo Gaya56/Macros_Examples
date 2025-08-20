@@ -6,7 +6,12 @@ Welcome to the **Macros_Examples** repository, a curated collection of macro scr
 This repository contains approved macro syntax examples, deprecated patterns, and guidance documentation for troubleshooting and configuring macros on Cisco RoomOS devices. It serves as a knowledge base for the Macros Support Agent to reference and provide accurate responses.
 
 ## Structure
-The repository is organized into folders and files that represent various macro types, scripts, and error handling examples.
+ Top 5 Macro Ideas for Troubleshooting Cisco Webex RoomOS Devices:
+Diagnose audio issues (e.g., no sound, echo, mic problems)
+Troubleshoot video and camera connectivity
+Check and optimize network settings (DNS, SIP, VPN)
+Automate reboots and firmware updates
+Run system diagnostics and retrieve logs
 
 - **/examples**: Contains commonly used macro scripts with clear comments, syntax highlighting, and usage instructions.
 - **/deprecated**: Contains examples of deprecated macro syntax along with recommended updates.
